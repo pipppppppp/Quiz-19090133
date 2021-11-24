@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz19090133-Login</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="nim">NIM</string>
+    <string name="logout">logout</string>
+    <string name="icon">icon</string>
+    <string name="silahkan_masukkan_nama_dan_nim">Masukkan Nama dan NIM Anda</string>
+    <string name="login">Login</string>
+    <string name="registrasi">Registrasi Now?</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
